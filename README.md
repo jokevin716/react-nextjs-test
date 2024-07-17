@@ -45,4 +45,4 @@ The `src/pages/api` directory is mapped to `/api/*`. Files in this directory are
 
 ## Demo Screenshot
 
-![](https://drive.google.com/file/d/1h2mM64DKoLGlFiWDpaXcn4mEtqqQj0eD/view)
+![](https://drive.google.com/uc?export=view&id=1h2mM64DKoLGlFiWDpaXcn4mEtqqQj0eD)
